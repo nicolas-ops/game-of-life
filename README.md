@@ -16,8 +16,8 @@ A lightweight terminal implementation of John Conway's Game of Life written in C
 
 ## How to play
 
-- Mouseclick to place/remove pixels
-- Space to pause/unpause
+- `Mouseclick` to place/remove pixels
+- `Space` to pause/unpause
 - `r` to place random pixels
 - `g` to spawn a glider at last clicked spot
 - `q` to quit
