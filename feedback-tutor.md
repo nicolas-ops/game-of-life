@@ -1,6 +1,0 @@
-- [-2] nur der Konstruktor, Destruktor und Play sollen public sein
-- [-8]
-    - das game functioniert nicht bei mir wird einfach nur eine graue kachel angezeigt
-    - warum nutzt du nicht den Terminal manager aus der vorlesung z.b. werde dort die Colums richtig skaliert
-    - ansich sieht der code gut aus aber ich kann dir dafür nicht mehr punkte geben 
-- test sehn gut aus, du hättest aber noch z.B. prozesUsesrinout testen können
