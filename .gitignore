@@ -1,0 +1,22 @@
+# Compiled binaries & executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+bin/
+build/
+
+# Linux Executables (typische Namen)
+game_of_life
+main
+
+# IDEs & Editor metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
